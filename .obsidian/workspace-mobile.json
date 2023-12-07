@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "60c81b6b18429d91",
+    "type": "split",
+    "children": [
+      {
+        "id": "5279748921672327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c42260e9f2d0ae98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4d802a24ac2e0cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "bd4f37c5c6afecdc"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e457f1742205fb23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe4ca839d5df87d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.6725909139200066,
+                  "close": false
+                }
+              }
+            },
+            "group": "bd4f37c5c6afecdc"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4caebbb4d4779965",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2824473d60bf1bdd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "c0e66f90c2bbba4f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "81e27f84372a0f5e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aad445b27278d2e3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ab44100bea2e987a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e7d8f92af3209770",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1ec1c7bf6fb3b335",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ff6fc85c05f6e136",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2824473d60bf1bdd",
+  "lastOpenFiles": [
+    "README.md",
+    "Introducción Al Hacking Ético/1. Contenido 📃.md",
+    "Introducción Al Hacking Ético/3. Linux 🐧.md",
+    "Introducción Al Hacking Ético/3..md",
+    "Introducción Al Hacking Ético/2. Introducción 📔.md",
+    "Introducción Al Hacking Ético/4. Bash 🧊.md",
+    "().md"
+  ]
+}
