@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
-                "mode": "preview",
+                "file": "Introducción Al Hacking Ético/4. Bash 🧊.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+                "file": "Introducción Al Hacking Ético/4. Bash 🧊.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+            "file": "Introducción Al Hacking Ético/4. Bash 🧊.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+            "file": "Introducción Al Hacking Ético/4. Bash 🧊.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Introducción Al Hacking Ético/1. Contenido 📃.md"
+            "file": "Introducción Al Hacking Ético/4. Bash 🧊.md"
           }
         }
       }
@@ -187,10 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2824473d60bf1bdd",
+  "active": "c4d802a24ac2e0cf",
   "lastOpenFiles": [
-    "README.md",
+    "Introducción Al Hacking Ético/img/Bash.jpg",
+    "Introducción Al Hacking Ético/img/th-4024573502.jpg",
     "Introducción Al Hacking Ético/1. Contenido 📃.md",
+    "README.md",
     "Introducción Al Hacking Ético/3. Linux 🐧.md",
     "Introducción Al Hacking Ético/3..md",
     "Introducción Al Hacking Ético/2. Introducción 📔.md",
