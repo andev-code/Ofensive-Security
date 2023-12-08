@@ -1,4 +1,7 @@
 # Ofensive-Security
-Curso de Hacking Ético
+Curso de Hacking Ético.
 
-> Made in **Obsidian**
+[`Empezar` ⏩](1.%20Contenido%20📃.md)
+
+> Made with:
+> ![[obsidian.png]]

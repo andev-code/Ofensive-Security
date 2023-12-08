@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción Al Hacking Ético/1. Contenido 📃.md",
+                "file": "1. Introducción A Linux/4. Comandos Frecuentes 🧩.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
-                "mode": "source",
+                "file": "2. Introducción al Hácking Ético/1. Contenido 📃.md",
+                "mode": "preview",
                 "source": false
               }
             },
@@ -45,7 +45,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
+                "file": "2. Introducción al Hácking Ético/1. Contenido 📃.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
+            "file": "2. Introducción al Hácking Ético/1. Contenido 📃.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
+            "file": "2. Introducción al Hácking Ético/1. Contenido 📃.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +170,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md"
+            "file": "2. Introducción al Hácking Ético/1. Contenido 📃.md"
           }
         }
       }
@@ -187,8 +187,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2824473d60bf1bdd",
+  "active": "c4d802a24ac2e0cf",
   "lastOpenFiles": [
+    "2. Introducción al Hácking Ético/4. Metodología 📝.md",
+    "2. Introducción al Hácking Ético/3. Objetivos y Roles 🕶️.md",
+    "2. Introducción al Hácking Ético/2. Introducción Al Hacking Ético 📔.md",
+    "2. Introducción al Hácking Ético/1. Contenido 📃.md",
+    "2. Introducción al Hácking Ético/5. Certificaciones ☕.md",
+    "certificaciones.md",
+    "metodologia.md",
+    "Introducion HE.md",
+    "a subir.md",
+    "1. Introducción A Linux/4. Comandos Frecuentes 🧩.md",
+    "1. Introducción A Linux/3. Bash 🧊.md",
+    "1. Introducción A Linux/2. Linux 🐧.md",
+    "1. Introducción A Linux/1. Contenido 📃.md",
+    "Bash.jpg.md",
+    "README.md",
+    "obsidian.png",
     "Introducción Al Hacking Ético/4. Bash 🧊.md",
     "Introducción Al Hacking Ético/3. Linux 🐧.md",
     "Introducción Al Hacking Ético/1. Contenido 📃.md",
@@ -196,7 +212,6 @@
     "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
     "Introducción Al Hacking Ético/img/Bash.jpg",
     "Introducción Al Hacking Ético/img/th-4024573502.jpg",
-    "README.md",
     "Introducción Al Hacking Ético/3..md",
     "().md"
   ]
