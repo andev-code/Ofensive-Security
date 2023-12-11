@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introducción A Linux/4. Comandos Frecuentes 🧩.md",
+                "file": "3. Conceptos Básicos/6. Subnetting 🕸️.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "escaneo de redes.md",
-                "mode": "source",
+                "file": "3. Conceptos Básicos/3. Protocolos Comunes 👥.md",
+                "mode": "preview",
                 "source": false
               }
             },
             "group": "bd4f37c5c6afecdc"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e457f1742205fb23",
@@ -45,7 +44,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "escaneo de redes.md",
+                "file": "3. Conceptos Básicos/3. Protocolos Comunes 👥.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -141,7 +140,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "escaneo de redes.md",
+            "file": "3. Conceptos Básicos/6. Subnetting 🕸️.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "escaneo de redes.md",
+            "file": "3. Conceptos Básicos/6. Subnetting 🕸️.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -170,7 +169,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "escaneo de redes.md"
+            "file": "3. Conceptos Básicos/6. Subnetting 🕸️.md"
           }
         }
       }
@@ -187,21 +186,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2824473d60bf1bdd",
+  "active": "c42260e9f2d0ae98",
   "lastOpenFiles": [
-    "eJPT.md",
-    "escaneo de redes.md",
-    "2. Introducción al Hácking Ético/1. Contenido 📃.md",
+    "3. Conceptos Básicos/5. Modelo OSI 🍔.md",
+    "3. Conceptos Básicos/6. Subnetting 🕸️.md",
+    "3. Conceptos Básicos/1. Contenido 📃.md",
+    "3. Conceptos Básicos/4. Three-Way Handshake 🤝.md",
     "1. Introducción A Linux/4. Comandos Frecuentes 🧩.md",
+    "3. Conceptos Básicos/3. Protocolos Comunes 👥.md",
+    "3. Conceptos Básicos/2.  Direcciones IP (IPv4 & IPv6) & MAC 💻.md",
     "2. Introducción al Hácking Ético/5. Certificaciones ☕.md",
-    "2. Introducción al Hácking Ético/img/masked.jpg",
     "2. Introducción al Hácking Ético/4. Metodología 📝.md",
     "2. Introducción al Hácking Ético/3. Objetivos y Roles 🕶️.md",
+    "2. Introducción al Hácking Ético/2. Introducción Al Hacking Ético 📔.md",
+    "2. Introducción al Hácking Ético/1. Contenido 📃.md",
+    "1. Introducción A Linux/3. Bash 🧊.md",
+    "1. Introducción A Linux/2. Linux 🐧.md",
+    "1. Introducción A Linux/1. Contenido 📃.md",
+    "img/Osi.png",
+    "eJPT.md",
+    "escaneo de redes.md",
+    "2. Introducción al Hácking Ético/img/masked.jpg",
     "2. Introducción al Hácking Ético/img/Metod.jpg",
     "2. Introducción al Hácking Ético/img/Notes.jpg",
     "2. Introducción al Hácking Ético/img/Notea.jpg",
     "2. Introducción al Hácking Ético/img/IMG_20231208_194304_505.jpg",
-    "2. Introducción al Hácking Ético/2. Introducción Al Hacking Ético 📔.md",
     "2. Introducción al Hácking Ético/img/Hack.jpg",
     "2. Introducción al Hácking Ético/img/hack.jpg",
     "2. Introducción al Hácking Ético/img/IMG_20231208_132227.jpg",
@@ -209,19 +218,11 @@
     "metodologia.md",
     "Introducion HE.md",
     "a subir.md",
-    "1. Introducción A Linux/3. Bash 🧊.md",
-    "1. Introducción A Linux/2. Linux 🐧.md",
-    "1. Introducción A Linux/1. Contenido 📃.md",
     "Bash.jpg.md",
     "README.md",
     "obsidian.png",
     "Introducción Al Hacking Ético/4. Bash 🧊.md",
     "Introducción Al Hacking Ético/3. Linux 🐧.md",
-    "Introducción Al Hacking Ético/1. Contenido 📃.md",
-    "Introducción Al Hacking Ético/2. Introducción 📔.md",
-    "Introducción Al Hacking Ético/5. Comandos Frecuentes 🧩.md",
-    "Introducción Al Hacking Ético/img/Bash.jpg",
-    "Introducción Al Hacking Ético/3..md",
-    "().md"
+    "Introducción Al Hacking Ético/1. Contenido 📃.md"
   ]
 }
